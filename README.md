@@ -16,10 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=melon3000&color=8b5cf6&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melon3000&show_icons=true&theme=transparent&hide_border=true&title_color=C084FC&text_color=DDD6FE&icon_color=A855F7" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melon3000&layout=compact&theme=transparent&hide_border=true&title_color=C084FC&text_color=DDD6FE" height="170" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=melon3000&theme=transparent&hide_border=true&ring=C084FC&fire=A855F7&currStreakLabel=DDD6FE&sideLabels=DDD6FE&dates=9F7AEA&currStreakNum=C084FC&sideNums=C084FC" />

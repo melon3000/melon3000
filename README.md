@@ -7,7 +7,7 @@
 <h1 align="center">Melon3000</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-online-0b0f1a?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=0b0f1a" />
+  <img src="https://img.shields.io/badge/status-asleep-0b0f1a?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=0b0f1a" />
   <img src="https://img.shields.io/badge/ROLE-chatGPT%20CEO-120f1d?style=for-the-badge&logo=git&logoColor=A855F7&labelColor=120f1d" />
   <img src="https://img.shields.io/badge/manual%20coding-no-161225?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC&labelColor=161225" />
 </p>

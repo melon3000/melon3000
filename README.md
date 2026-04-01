@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05070d,25:0b1020,50:16122b,75:22153a,100:2a1248&section=header&animation=twinkling" />
 </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=900&color=C084FC&center=true&vCenter=true&width=900&lines=f4ck+manual+writing;ai+writes;i+commit;js+vibecode+atp+%F0%9F%98%AD;works+2good+somehow" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=900&color=C084FC&center=true&vCenter=true&width=900&lines=no+manual+writing;ai+writes;i+commit;js+vibecode+atp+%F0%9F%98%AD;works+2good+somehow" /> </p>
 
 <h1 align="center">Melon3000</h1>
 
